@@ -1,0 +1,6 @@
+Linked lists are best if a program is managing a collection of items that don't need to be ordered, constant time is required for adding or removing an item from the collection and increased search time is OK.
+Stacks are best if the program is managing a collection that needs to support a LIFO order.
+Queues should be used if the program is managing a collection that needs to support a FIFO order.
+Binary trees are good for managing a collection of items with a parent-child relationship, such as a family tree.
+Binary search trees are appropriate for managing a sorted collection where the goal is to optimize the time it takes to find specific items in the collection.
+Graphs work best if the application will analyze connectivity and relationships among a collection of individuals in a social media network.
